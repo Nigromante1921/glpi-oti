@@ -1,0 +1,90 @@
+2024-07-16 04:09:16 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-16 04:16:35 [@DESKTOP-D982NS5]
+[login] 3: tech  inicio de sesión desde IP ::1
+2024-07-16 04:21:46 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-23 02:08:56 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-23 02:11:18 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-23 03:13:47 [@DESKTOP-D982NS5]
+[login] 3: Fallo en el acceso de gestor de incidentes desde la IP ::1
+2024-07-23 03:14:16 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-23 03:19:22 [@DESKTOP-D982NS5]
+[login] 3: gestor de incidentes  inicio de sesión desde IP ::1
+2024-07-23 03:37:07 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-23 03:39:07 [@DESKTOP-D982NS5]
+[login] 3: gestor de incidentes  inicio de sesión desde IP ::1
+2024-07-23 03:42:46 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-23 03:43:36 [@DESKTOP-D982NS5]
+[login] 3: soporte nivel 1  inicio de sesión desde IP ::1
+2024-07-23 03:46:28 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-23 03:52:16 [@DESKTOP-D982NS5]
+[login] 3: support nivel 1  inicio de sesión desde IP ::1
+2024-07-23 03:53:37 [@DESKTOP-D982NS5]
+[login] 3: soporte nivel 1  inicio de sesión desde IP ::1
+2024-07-23 03:53:49 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-23 03:55:18 [@DESKTOP-D982NS5]
+[login] 3: gestor de incidentes  inicio de sesión desde IP ::1
+2024-07-23 03:56:02 [@DESKTOP-D982NS5]
+[login] 3: support nivel 1  inicio de sesión desde IP ::1
+2024-07-23 03:56:46 [@DESKTOP-D982NS5]
+[login] 3: soporte nivel 1  inicio de sesión desde IP ::1
+2024-07-23 03:57:24 [@DESKTOP-D982NS5]
+[login] 3: support nivel 1  inicio de sesión desde IP ::1
+2024-07-27 01:08:40 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP 127.0.0.1
+2024-07-27 01:52:51 [@DESKTOP-D982NS5]
+[login] 3: Fallo en el acceso de test admin desde la IP 127.0.0.1
+2024-07-27 01:53:01 [@DESKTOP-D982NS5]
+[login] 3: test admi  inicio de sesión desde IP 127.0.0.1
+2024-07-27 03:13:55 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP 127.0.0.1
+2024-07-27 03:18:51 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-27 03:31:06 [@DESKTOP-D982NS5]
+[login] 3: support lvl 1  inicio de sesión desde IP 127.0.0.1
+2024-07-27 03:32:12 [@DESKTOP-D982NS5]
+[login] 3: support lvl 1  inicio de sesión desde IP ::1
+2024-07-27 03:37:24 [@DESKTOP-D982NS5]
+[login] 3: gestor de incidentes  inicio de sesión desde IP ::1
+2024-07-27 03:38:31 [@DESKTOP-D982NS5]
+[login] 3: support lvl 1  inicio de sesión desde IP ::1
+2024-07-27 03:40:46 [@DESKTOP-D982NS5]
+[login] 3: gestor de incidentes  inicio de sesión desde IP ::1
+2024-07-27 03:41:44 [@DESKTOP-D982NS5]
+[login] 3: support lvl 1  inicio de sesión desde IP ::1
+2024-07-27 03:50:09 [@DESKTOP-D982NS5]
+[login] 3: gestor de incidentes  inicio de sesión desde IP ::1
+2024-07-27 03:51:33 [@DESKTOP-D982NS5]
+[login] 3: support lvl 1  inicio de sesión desde IP 127.0.0.1
+2024-07-27 03:59:59 [@DESKTOP-D982NS5]
+[login] 3: support lvl 2  inicio de sesión desde IP 127.0.0.1
+2024-07-27 04:15:14 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-27 04:16:26 [@DESKTOP-D982NS5]
+[login] 3: support lvl 1  inicio de sesión desde IP 127.0.0.1
+2024-07-27 04:17:12 [@DESKTOP-D982NS5]
+[login] 3: gestor de incidentes  inicio de sesión desde IP ::1
+2024-07-27 04:21:33 [@DESKTOP-D982NS5]
+[login] 3: support lvl 3  inicio de sesión desde IP 127.0.0.1
+2024-07-30 03:07:22 [@DESKTOP-D982NS5]
+[login] 3: Fallo en el acceso de  desde la IP ::1
+2024-07-30 03:07:36 [@DESKTOP-D982NS5]
+[login] 3: support lvl 1  inicio de sesión desde IP ::1
+2024-07-31 19:43:27 [@DESKTOP-D982NS5]
+[login] 3: support lvl 1  inicio de sesión desde IP ::1
+2024-07-31 19:44:18 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-31 20:19:24 [@DESKTOP-D982NS5]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2024-07-31 20:20:20 [@DESKTOP-D982NS5]
+[login] 3: Fallo en el acceso de devjunior desde la IP ::1
+2024-07-31 20:20:33 [@DESKTOP-D982NS5]
+[login] 3: devjunior  inicio de sesión desde IP ::1

@@ -1,0 +1,8 @@
+[2024-07-16 03:48:01] glpiphplog.WARNING: Test logger  
+[2024-07-16 04:03:27] glpiphplog.WARNING: Test logger  
+[2024-07-16 04:07:09] glpiphplog.CRITICAL:   *** Uncaught Exception TypeError: mysqli::__construct(): Argument #5 ($port) must be of type ?int, string given in C:\xampp\htdocs\service_desk_oti\install\install.php at line 180
+  Backtrace :
+  install\install.php:180                            mysqli->__construct()
+  install\install.php:608                            step3()
+  
+[2024-07-16 04:07:30] glpiphplog.WARNING: Test logger  

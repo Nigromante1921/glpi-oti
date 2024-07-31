@@ -1,0 +1,12 @@
+2024-07-23 03:32:08 [7@DESKTOP-D982NS5]
+User ID: 7 tried to access or perform an action on /service_desk_oti/front/user.form.php?id=7 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		C:\xampp\htdocs\service_desk_oti\src\CommonDBTM.php:6449 displayRightError()
+		C:\xampp\htdocs\service_desk_oti\src\CommonDBTM.php:6542 displayAccessDeniedPage()
+		C:\xampp\htdocs\service_desk_oti\front\user.form.php:253 displayFullPageForItem()
+2024-07-27 03:22:37 [2@DESKTOP-D982NS5]
+User ID: 2 tried to access a non-existent item /service_desk_oti/front/user.form.php?id=14. Additional information: The item could not be found in the database
+	Stack Trace:
+		C:\xampp\htdocs\service_desk_oti\src\CommonDBTM.php:6425 displayNotFoundError()
+		C:\xampp\htdocs\service_desk_oti\src\CommonDBTM.php:6536 displayItemNotFoundPage()
+		C:\xampp\htdocs\service_desk_oti\front\user.form.php:253 displayFullPageForItem()
